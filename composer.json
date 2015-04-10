@@ -1,0 +1,15 @@
+{
+  "name": "hyperminesolutions/arkhaios",
+  "description": "ArkhaiosCMS - basic CMS for Woodpecker v3.1 (Habbo Hotel emulation server)",
+  "minimum-stability": "dev",
+  "license": "Apache-2.0",
+  "authors": [
+    {
+      "name": "Scott Stamp",
+      "email": "scott@hypermine.com"
+    }
+  ],
+  "require": {
+    "barryvdh/laravel-ide-helper": "v2.0.3"
+  }
+}
